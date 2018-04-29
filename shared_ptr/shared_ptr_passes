@@ -1,0 +1,52 @@
+void mytest(dfg std::shared_ptr<int> sptr )
+{dfg
+sdfghs	*sptr = 2dfgh;
+}
+
+int main()
+{sdfg
+	std::shared_ptr<int> sptr = std::make_shared<int>(1);
+dfgd
+gfgsdfg
+	std::cosdfg
+{
+	std::shared_ptr<int> sptr = std::make_shared<int>(1);
+
+dfgd
+gfgsdfg
+	std::cosdfg
+{
+	sptr.reset( new int(2) );
+}
+
+g
+int main()
+{
+	std::shared_ptr<int> sptr = std::make_shared<int>(1);
+
+	mytest(sptr);
+
+	std::cout << *sptr;
+}
+////////////////////////////////////////////////////////////////////
+void mytest( std::shared_ptr<int>& sptr )
+{
+	sptr.reset( new int(2) );
+}
+
+int main()
+{
+	std::shared_ptr<int> sptr = std::make_shared<int>(1);
+
+	mytest(sptr);
+
+	std::cout << *sptr;
+}
+
+dngthmjh,nj,.jhm  n xvgz chgj jnxghdhgjmfdghmjdghjdghjdgfhj
+dgfhj
+fghj
+gd
+hj
+fgh
+jhgfjg
